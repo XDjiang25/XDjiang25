@@ -5,15 +5,6 @@
 ---
 
 ### Experience
-+ 2016-2020, B.E. in Computer Science and Technology, Beijing Jiaotong University. Beijing.
-+ 2019-2020, Internship. Beijing Bytedance Co., Ltd. Beijing.
-+ 2020-,  PhD candidate. in Computer Science and Technology, Tongji University. Shanghai.
-+ 2023-,  Dual PhD candidate. in Department of Computing, The Hong Kong Polytechnic University, Hong Kong S.A.R.
-+ 2024-,  Exchange Student, In Department of Computer Science,  University of Illinois Chicago, Chicago, U.S.A.
-### Research Interests
- + Graph Learning
- + Spatial-Temporal Data Mining
- + Interpretability of Deep Learning
- + Large Models
++ 2019-2023, B.E. in Computer Science and Technology, NorthEastern University. Shenyang.
++ 2023-,  PhD candidate. in Computer Science and Technology, Tongji University. Shanghai.
 
-### WebSite: https://neoyanghc.github.io/
